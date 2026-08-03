@@ -9,3 +9,5 @@
 *.fdb_latexmk
 *.vrb
 *.pdf
+.claude/worktrees/
+.DS_Store
