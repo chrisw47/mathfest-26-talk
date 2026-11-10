@@ -8,6 +8,6 @@
 *.fls
 *.fdb_latexmk
 *.vrb
-*.pdf
+figs/
 .claude/worktrees/
 .DS_Store
